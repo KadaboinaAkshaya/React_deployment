@@ -1,0 +1,20 @@
+.navbar-container{
+    display: flex;
+    gap: 10px;
+    /* justify-content: space-between; */
+    background-color: beige;
+    height: 100px;
+    position:"fixed";
+}
+h4{
+    background-color:"beige";
+    justify-content: last baseline;
+    width: 200px;
+    display: flex;
+    height: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    align-items: end;
+    position:"fixed";
+    
+}

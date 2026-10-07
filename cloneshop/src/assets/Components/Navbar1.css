@@ -1,0 +1,7 @@
+.button{
+    background-color:"beige"
+    display="flex"
+    justifycontent="space-between"
+    height="20px"
+    /* position="fixed" */
+}

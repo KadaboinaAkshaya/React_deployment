@@ -1,0 +1,7 @@
+.top-navbar-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    /* position: fixed; */
+    background-color: white;
+}
